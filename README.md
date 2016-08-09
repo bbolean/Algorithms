@@ -1,1 +1,2 @@
-# Algorithms
+
+Algorithmic problems and their solutions.
